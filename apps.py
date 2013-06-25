@@ -104,10 +104,10 @@ class CustomApplications(Applications):
 				return self.either(c, 'zathura',  'evince','apvlv')
 			if f.extension == 'djvu':
 				return self.either(c, 'evince')
-			if f.extension in ('xml', ):
+			if f.extension in ('xml', 'jrxml'):
 				return self.either(c, 'editor')
 			if f.extension in ('html', 'htm', 'xhtml'):
-				return self.either(c, 'vim', 'firefox', 'opera', 'jumanji',
+				return self.either(c, 'editor', 'firefox', 'opera', 'jumanji',
 						'luakit', 'elinks', 'lynx')
 			if f.extension == 'swf':
 				return self.either(c, 'firefox', 'opera', 'jumanji', 'luakit')
