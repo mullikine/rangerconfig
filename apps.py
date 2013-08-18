@@ -138,7 +138,7 @@ class CustomApplications(Applications):
 			else:
 				return self.either(c, 'feh', 'sxiv', 'eog', 'mirage')
 
-		if f.document or f.filetype.startswith('text') or f.size == 0:
+		if f.document or f.filetype.startswith('text') or f.filetype.startswith('ASCII') or f.size == 0:
 			return self.either(c, 'editor')
 
 		# You can put this at the top of the function and mimeopen will
