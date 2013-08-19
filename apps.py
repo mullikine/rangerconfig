@@ -96,6 +96,8 @@ class CustomApplications(Applications):
 			if made: return made
 
 		if f.extension is not None:
+			if f.extension in ('trz', 'ttz', ):
+				return self.either(c, 'vimtrz')
 			if f.extension in ('chm', ):
 				return self.either(c, 'xchm')
 			if f.extension in ('webm', ):
