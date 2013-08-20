@@ -96,6 +96,8 @@ class CustomApplications(Applications):
 			if made: return made
 
 		if f.extension is not None:
+			if f.extension in ('exp', ):
+				return self.either(c, 'editor')
 			if f.extension in ('jar', ):
 				return self.either(c, 'vim')
 			if f.extension in ('trz', 'ttz', ):
