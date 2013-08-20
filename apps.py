@@ -98,6 +98,10 @@ class CustomApplications(Applications):
 		if f.extension is not None:
 			if f.extension in ('trz', 'ttz', ):
 				return self.either(c, 'vimtrz')
+			if f.basename.endswith(".tar.gz"):
+				return self.either(c, 'editor')
+			if f.extension in ('tgz', 'tar', ):
+				return self.either(c, 'editor')
 			if f.extension in ('chm', ):
 				return self.either(c, 'xchm')
 			if f.extension in ('webm', ):
