@@ -95,6 +95,8 @@ class CustomApplications(Applications):
 			made = self.either(c, 'make')
 			if made: return made
 
+		if f.basename.endswith(".png"):
+			return self.either(c, 'feh')
 		if f.extension is not None:
 			if f.extension in ('exp', ):
 				return self.either(c, 'editor')
