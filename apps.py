@@ -98,6 +98,8 @@ class CustomApplications(Applications):
 		if f.basename.endswith(".png"):
 			return self.either(c, 'feh')
 		if f.extension is not None:
+			if f.extension in ('csv', ):
+				return self.either(c, 'view-csv', 'libreoffice')
 			if f.extension in ('config', ):
 				return self.either(c, 'editor')
 			if f.extension in ('exp', ):
