@@ -106,7 +106,7 @@ class CustomApplications(Applications):
 				return self.either(c, 'editor')
 			if f.extension in ('jar', ):
 				return self.either(c, 'vim')
-			if f.extension in ('trz', 'ttz', ):
+			if f.extension in ('trz', 'ttz', 'shp' ):
 				return self.either(c, 'vimtrz')
 			if f.basename.endswith(".tar.gz"):
 				return self.either(c, 'editor')
