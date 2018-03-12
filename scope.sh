@@ -1,0 +1,1 @@
+/home/shane/scripts/scope.sh

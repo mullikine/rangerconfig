@@ -100,7 +100,7 @@ class CustomApplications(Applications):
 		if f.extension is not None:
 			if f.extension in ('csv', ):
 				return self.either(c, 'view-csv', 'libreoffice')
-			if f.extension in ('config', ):
+			if f.extension in ('config', 'bat', ):
 				return self.either(c, 'editor')
 			if f.extension in ('exp', ):
 				return self.either(c, 'editor')
