@@ -1,35 +1,50 @@
-filter ranger
-open_with vim
-find va
-find menu
-search menu
-search window
-search status
-find 
-find con
-[1;3P
-find comp
-filter notif
-qq
-help shel
-help c
-help 
-[1;3P[1;3P
-help
-shell 
-[1;3P[1;3P[1;3P
-filter jenk
-
-rename s
 filter ws
-filter call
-filter 152
-filter pron
-filter ^t
-open_with 
-filter sphi
-find F
-filter 
+filter strace
+filter sudo
+filter f
+filter x
+filter 420
+filter peo
+filter IN
 filter todo
-rename codecrafty
-filter RE
+filter co
+filter thou
+filter wifi
+filter cal
+filter 480
+filter 431
+filter pro
+filter dhci
+filter filter
+filter jul
+filter ran
+filter stuf
+filter jo
+find F
+filter Vod
+filter rem
+filter l
+filter Em
+filter id
+filter glo
+filter link
+filter CHROM
+filter script
+filter C
+filter POWER
+filter dire
+filter Nev
+filter sahne
+filter Wate
+filter Wat
+filter un
+filter plan
+filter ppers
+filter pers
+filter org
+filter files
+filter listp
+filter lisp
+filter 
+help shell
+help
