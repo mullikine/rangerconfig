@@ -1,14 +1,3 @@
-filter org
-filter code
-filter sourc
-filter exa
-filter tor
-filter lisp
-filter closh
-open_with 
-filter examp
-filter clip
-filter com
 filter fb
 filter log
 filter call
@@ -46,5 +35,16 @@ filter pack
 filter auto
 filter goog
 filter go
-filter 
 filter ws
+filter b
+filter com
+filter esh
+filter moz
+filter hand
+eq
+filter u
+filter 
+filter lib
+filter or
+filter alsa
+filter hex
