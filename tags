@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CustomApplications	apps.py	/^class CustomApplications(Applications):$/;"	c
+app_aunpack	apps.py	/^	def app_aunpack(self, c):$/;"	m	class:CustomApplications
+app_default	apps.py	/^	def app_default(self, c):$/;"	m	class:CustomApplications
+app_edit_or_run	apps.py	/^	def app_edit_or_run(self, c):$/;"	m	class:CustomApplications
+app_editor	apps.py	/^	def app_editor(self, c):$/;"	m	class:CustomApplications
+app_feh	apps.py	/^	def app_feh(self, c):$/;"	m	class:CustomApplications
+app_file_roller	apps.py	/^	def app_file_roller(self, c):$/;"	m	class:CustomApplications
+app_java	apps.py	/^	def app_java(self, c):$/;"	m	class:CustomApplications
+app_make	apps.py	/^	def app_make(self, c):$/;"	m	class:CustomApplications
+app_mimeopen	apps.py	/^	def app_mimeopen(self, c):$/;"	m	class:CustomApplications
+app_mplayer	apps.py	/^	def app_mplayer(self, c):$/;"	m	class:CustomApplications
+app_mplayer2	apps.py	/^	def app_mplayer2(self, c):$/;"	m	class:CustomApplications
+app_pager	apps.py	/^	def app_pager(self, c):$/;"	m	class:CustomApplications
+app_set_bg_with_feh	apps.py	/^	def app_set_bg_with_feh(self, c):$/;"	m	class:CustomApplications
+app_sxiv	apps.py	/^	def app_sxiv(self, c):$/;"	m	class:CustomApplications
+app_totem	apps.py	/^	def app_totem(self, c):$/;"	m	class:CustomApplications
+dump	scope.sh	/^dump() { \/usr\/bin\/printf -- "%s\\n" "$output"; }$/;"	f
+highlight	scope.sh	/^highlight() {$/;"	f
+strip_extensions	apps.py	/^		def strip_extensions(file):$/;"	f	function:CustomApplications.app_java
+trim	scope.sh	/^trim() { head -n "$maxln"; }$/;"	f
+try	scope.sh	/^try() { output=$(eval '"$@"'); }$/;"	f
