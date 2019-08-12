@@ -28,7 +28,6 @@ filter projec
 filter hydra
 filter nostal
 filter confer
-filter conf
 filter e
 filter my-pyt
 filter churn
@@ -38,7 +37,6 @@ filter solution
 filter codecra
 filter emac
 filter trou
-filter solu
 filter my-hy
 filter compan
 filter python
@@ -47,4 +45,6 @@ filter realine
 filter read
 filter learn
 filter readline
-filter program
+filter solu
+filter conf
+filter found
