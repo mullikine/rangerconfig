@@ -1,8 +1,3 @@
-filter fstart
-filter start
-filter distr
-filter projec
-filter hydra
 filter nostal
 filter confer
 filter e
@@ -40,7 +35,6 @@ filter INI
 filter ws
 filter nlp
 filter techn
-filter 
 filter conf
 filter my-sub
 filter solu
@@ -48,3 +42,9 @@ filter org
 filter emac
 filter todo
 filter pyth
+filter nlu
+filter nl;p
+filter under
+filter 
+filter hy
+filter rem
