@@ -1,9 +1,3 @@
-filter Relo
-filter ema
-filter Trip
-filter trip
-open_with 
-filter res
 filter time
 filter hist
 filter m
@@ -41,10 +35,16 @@ filter nlp
 filter homolo
 filter solu
 filter halid
-filter ws
 filter spacy
 filter Open
 filter read
 filter File
 filter spac
+filter nel
+filter C
+filter ws
+filter rsut
+filter rust
+filter gimp
+mkdir 
 filter 
