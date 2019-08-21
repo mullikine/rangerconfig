@@ -1,4 +1,3 @@
-filter ini
 filter INI
 filter techn
 filter my-sub
@@ -36,6 +35,7 @@ filter File
 filter spac
 filter nel
 filter C
+filter ws
 filter rsut
 filter rust
 filter gimp
@@ -44,7 +44,7 @@ filter conf
 filter haske
 filter social
 filter mega
-filter ws
-filter cpp
 filter 
-filter tool
+filter hask
+filter rem
+filter aoe
