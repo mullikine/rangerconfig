@@ -1,8 +1,6 @@
-filter Ra
 filter ini
 filter INI
 filter techn
-filter conf
 filter my-sub
 filter org
 filter emac
@@ -38,13 +36,15 @@ filter File
 filter spac
 filter nel
 filter C
-filter ws
 filter rsut
 filter rust
 filter gimp
 mkdir 
-filter Type
-filter 
-filter Fund
+filter conf
 filter haske
-filter rainbo
+filter social
+filter mega
+filter ws
+filter cpp
+filter 
+filter tool
