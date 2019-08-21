@@ -1,4 +1,3 @@
-filter INI
 filter techn
 filter my-sub
 filter org
@@ -7,7 +6,6 @@ filter todo
 filter pyth
 filter s
 filter remem
-filter job
 filter go
 filter lisp
 filter music
@@ -44,7 +42,9 @@ filter conf
 filter haske
 filter social
 filter mega
-filter 
 filter hask
 filter rem
 filter aoe
+filter job
+filter peoppl
+filter 
