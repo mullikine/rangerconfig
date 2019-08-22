@@ -1,16 +1,7 @@
-filter techn
-filter my-sub
-filter org
-filter emac
-filter todo
-filter pyth
-filter s
-filter remem
 filter go
 filter lisp
 filter music
 filter CS
-filter evil
 filter evil-or
 filter evil-o
 filter doc
@@ -38,13 +29,22 @@ filter rsut
 filter rust
 filter gimp
 mkdir 
-filter conf
 filter haske
 filter social
 filter mega
-filter hask
 filter rem
 filter aoe
-filter job
 filter peoppl
+filter comm
+filter 26
+filter hask
+filter babel
+filter org-
+filter haskel
+filter evil
+filter job
+filter pers
+filter my-util
 filter 
+filter conf
+filter sha
