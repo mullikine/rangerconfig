@@ -1,5 +1,3 @@
-filter CS
-filter evil-or
 filter evil-o
 filter doc
 filter Rust
@@ -35,16 +33,18 @@ filter peoppl
 filter comm
 filter 26
 filter hask
+filter babel
 filter org-
 filter haskel
 filter evil
 filter job
 filter pers
 filter my-util
+filter conf
 filter sha
 filter ^c
-filter nell
+filter met
+filter sav
+filter ft
 filter 
-filter movie
-filter conf
-filter babel
+filter iph
