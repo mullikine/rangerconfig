@@ -1,20 +1,3 @@
-filter evil-o
-filter doc
-filter Rust
-filter My
-filter NO
-filter NOT
-filter reinf
-filter pyca
-filter _
-filter deep
-filter nlp
-filter homolo
-filter solu
-filter halid
-filter spacy
-filter Open
-filter read
 filter File
 filter spac
 filter nel
@@ -24,7 +7,6 @@ filter rsut
 filter rust
 filter gimp
 mkdir 
-filter haske
 filter social
 filter mega
 filter rem
@@ -46,5 +28,23 @@ filter ^c
 filter met
 filter sav
 filter ft
-filter 
 filter iph
+filter github
+filter music
+filter old
+filter mid
+filter lion
+filter my-ev
+filter gdb
+filter .el
+filter musi
+filter play
+filter link
+filter haske
+rename filtersths
+filter math
+filter ici
+filter nelli
+filter emac
+filter script
+filter 
