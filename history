@@ -1,6 +1,3 @@
-filter evil
-filter job
-filter pers
 filter my-util
 filter sha
 filter ^c
@@ -44,7 +41,10 @@ filter Saint
 filter Let
 filter Hos
 filter Emm
-filter 
 filter God
-filter NIV
-filter NI
+filter bib
+filter model
+filter gpg
+filter snip
+filter 
+filter confi
