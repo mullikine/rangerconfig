@@ -1,9 +1,3 @@
-filter ft
-filter iph
-filter github
-filter music
-filter old
-filter mid
 filter lion
 filter my-ev
 filter gdb
@@ -29,7 +23,6 @@ filter util
 filter hask
 rename qmy-haskell.el
 filter my-yas
-filter conf
 filter shack
 filter Hym
 filter Saint
@@ -45,6 +38,13 @@ filter Hel
 filter Filter
 filter Infin
 filter Catam
-filter 
 filter Cata
 filter jav
+filter haskelli
+filter 
+filter haskell
+filter cpp
+filter manage
+filter conf
+filter mana
+filter For
