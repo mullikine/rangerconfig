@@ -1,8 +1,4 @@
-filter lion
-filter my-ev
-filter gdb
 filter .el
-filter musi
 filter play
 filter link
 filter haske
@@ -13,7 +9,6 @@ filter nelli
 filter emac
 filter script
 filter movi
-filter nell
 filter arle
 filter msf
 filter my-hask
@@ -48,3 +43,8 @@ filter manage
 filter conf
 filter mana
 filter For
+filter nell
+filter musi
+filter fun
+filter jok
+filter todo
