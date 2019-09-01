@@ -1,4 +1,3 @@
-filter my-hask
 filter shane
 filter adv
 filter util
@@ -26,6 +25,7 @@ filter haskelli
 filter haskell
 filter cpp
 filter manage
+filter conf
 filter mana
 filter For
 filter nell
@@ -42,9 +42,9 @@ filter .el
 filter irc
 filter nix
 filter 4
-filter emac
-filter conf
-filter md4
-filter random
-filter 
 filter gdb
+filter C
+filter 
+filter Lang
+filter C$
+filter Rand
