@@ -1,6 +1,3 @@
-filter haskell
-filter cpp
-filter manage
 filter mana
 filter For
 filter nell
@@ -44,7 +41,10 @@ filter peopl
 filter nlp
 filter fac
 filter bot
-filter 
 filter con
 filter conf
 filter shane
+filter ws
+filter scrip
+filter josh
+filter 
