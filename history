@@ -1,11 +1,3 @@
-filter resum
-filter read
-filter link
-filter music
-filter .el
-filter irc
-filter nix
-filter 4
 filter gdb
 filter ran
 filter Rand
@@ -26,7 +18,6 @@ filter musi
 filter cute
 filter epi
 filter chch
-filter emac
 filter filter
 filter codelingo
 filter nelli
@@ -34,7 +25,6 @@ filter peopl
 filter fac
 filter bot
 filter con
-filter shane
 filter ws
 filter scrip
 filter josh
@@ -43,8 +33,18 @@ filter ob-
 filter clas
 filter 
 filter .hs
-filter nlp
 filter data
 filter pgrep
-filter conf
 filter prodi
+filter emac
+filter xonf
+filter shane
+filter conf
+filter prod
+filter job
+filter high
+filter lisnk
+filter link
+filter nlp
+filter deep
+filter confi
