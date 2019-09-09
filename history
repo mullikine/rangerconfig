@@ -1,12 +1,3 @@
-filter 01
-filter list
-filter gloss
-filter org
-filter notes
-filter preser
-filter inter
-filter disc
-filter cute
 filter epi
 filter chch
 filter filter
@@ -15,7 +6,6 @@ filter peopl
 filter fac
 filter bot
 filter con
-filter ws
 filter scrip
 filter josh
 filter manu
@@ -28,7 +18,6 @@ filter prodi
 filter emac
 filter xonf
 filter shane
-filter conf
 filter prod
 filter high
 filter lisnk
@@ -47,4 +36,15 @@ filter eww
 filter brain
 filter nelli
 filter pro
+filter ws
+filter ws
+filter gpg
+filter Lan
+filter C++
+filter C\+\+
+filter ghc
+filter conf
+filter sh-
+filter haskel
+filter lambda
 filter 
