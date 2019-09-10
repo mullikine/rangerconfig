@@ -1,6 +1,3 @@
-filter bot
-filter con
-filter scrip
 filter josh
 filter manu
 filter ob-
@@ -22,7 +19,6 @@ filter job
 filter wat
 filter rust
 filter mistak
-filter 26
 filter eww
 filter brain
 filter nelli
@@ -44,7 +40,11 @@ filter haske
 filter setup
 filter confi
 filter comman
-filter 
 filter shane
 filter nlp
 filter rest
+filter ex
+filter 
+filter SQL
+filter 26
+filter lsp-
