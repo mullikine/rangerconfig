@@ -1,6 +1,3 @@
-filter epi
-filter chch
-filter filter
 filter codelingo
 filter peopl
 filter fac
@@ -43,8 +40,11 @@ filter Lan
 filter C++
 filter C\+\+
 filter ghc
-filter conf
 filter sh-
 filter haskel
 filter lambda
+filter conf
+filter my-.*mode
+filter mode
 filter 
+filter haske
