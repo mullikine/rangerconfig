@@ -1,6 +1,3 @@
-filter codelingo
-filter peopl
-filter fac
 filter bot
 filter con
 filter scrip
@@ -14,14 +11,11 @@ filter pgrep
 filter prodi
 filter emac
 filter xonf
-filter shane
 filter prod
 filter high
 filter lisnk
 filter link
 filter deep
-filter confi
-filter nlp
 filter musi
 filter common
 filter job
@@ -43,8 +37,14 @@ filter ghc
 filter sh-
 filter haskel
 filter lambda
-filter conf
 filter my-.*mode
 filter mode
-filter 
+filter conf
 filter haske
+filter setup
+filter confi
+filter comman
+filter 
+filter shane
+filter nlp
+filter rest
