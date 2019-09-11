@@ -1,5 +1,3 @@
-filter prodi
-filter emac
 filter xonf
 filter prod
 filter high
@@ -44,7 +42,9 @@ filter inter
 filter exer
 filter hask
 filter four
-filter 
 filter conf
 filter my-fly
-filter rem
+filter awk
+filter py
+filter __
+filter 
