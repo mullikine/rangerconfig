@@ -1,5 +1,3 @@
-filter data
-filter pgrep
 filter prodi
 filter emac
 filter xonf
@@ -29,7 +27,6 @@ filter haskel
 filter lambda
 filter my-.*mode
 filter mode
-filter conf
 filter haske
 filter setup
 filter confi
@@ -45,6 +42,9 @@ filter ro
 filter job
 filter inter
 filter exer
-filter 
 filter hask
-filter chen
+filter four
+filter 
+filter conf
+filter my-fly
+filter rem
