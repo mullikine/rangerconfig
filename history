@@ -1,3 +1,7 @@
+filter lisnk
+filter link
+filter deep
+filter musi
 filter common
 filter wat
 filter rust
@@ -29,6 +33,7 @@ filter SQL
 filter 26
 filter lsp-
 filter ro
+filter job
 filter inter
 filter exer
 filter hask
@@ -42,9 +47,4 @@ filter emacs
 filter lan
 filter py
 filter conf
-filter c
-filter job
 filter 
-filter ^v
-filter spac
-filter set
