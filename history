@@ -1,6 +1,3 @@
-filter common
-filter wat
-filter rust
 filter mistak
 filter eww
 filter brain
@@ -18,7 +15,6 @@ filter lambda
 filter my-.*mode
 filter mode
 filter haske
-filter setup
 filter confi
 filter comman
 filter shane
@@ -43,8 +39,12 @@ filter emacs
 filter lan
 filter py
 filter 
-filter conf
 filter linum
 filter pand
 filter rem
 filter html
+filter spacy
+filter setup
+filter conf
+filter compa
+filter spac
