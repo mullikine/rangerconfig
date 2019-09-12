@@ -1,7 +1,3 @@
-filter lisnk
-filter link
-filter deep
-filter musi
 filter common
 filter wat
 filter rust
@@ -46,5 +42,9 @@ filter my-the
 filter emacs
 filter lan
 filter py
-filter conf
 filter 
+filter conf
+filter linum
+filter pand
+filter rem
+filter html
