@@ -1,14 +1,3 @@
-filter lambda
-filter my-.*mode
-filter mode
-filter haske
-filter confi
-filter comman
-filter shane
-filter rest
-filter ex
-filter SQL
-filter 26
 filter lsp-
 filter ro
 filter inter
@@ -29,7 +18,6 @@ filter rem
 filter html
 filter spacy
 filter setup
-filter conf
 filter compa
 filter spac
 filter reme
@@ -44,7 +32,19 @@ filter r$
 filter ^r$
 filter r
 filter rang
-filter 
 filter lang
 filter nlp
 filter glos
+filter range
+filter nell
+open_with 
+filter my-lispy
+filter .pl
+filter scra
+filter perl
+filter shack
+filter englis
+filter speed
+filter conf
+filter 
+filter lisp
