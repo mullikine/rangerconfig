@@ -1,3 +1,6 @@
+filter ex
+filter SQL
+filter 26
 filter lsp-
 filter ro
 filter inter
@@ -40,11 +43,8 @@ filter nell
 open_with 
 filter my-lispy
 filter .pl
-filter scra
-filter perl
-filter shack
-filter englis
-filter speed
-filter conf
+filter pcre
 filter 
-filter lisp
+filter perl
+filter conf
+filter advi
