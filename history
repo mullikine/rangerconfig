@@ -1,12 +1,3 @@
-filter ex
-filter SQL
-filter 26
-filter lsp-
-filter ro
-filter inter
-filter exer
-filter hask
-filter four
 filter my-fly
 filter frank
 filter ws
@@ -36,7 +27,6 @@ filter ^r$
 filter r
 filter rang
 filter lang
-filter nlp
 filter glos
 filter range
 filter nell
@@ -44,7 +34,17 @@ open_with
 filter my-lispy
 filter .pl
 filter pcre
-filter 
 filter perl
 filter conf
 filter advi
+cd zgg
+filter blog
+filter todo
+filter Print
+filter Hell
+filter dat
+filter datase
+filter nlp
+filter data
+filter 
+filter dataset
