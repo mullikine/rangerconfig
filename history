@@ -1,6 +1,3 @@
-filter my-the
-filter emacs
-filter lan
 filter py
 filter linum
 filter pand
@@ -30,7 +27,6 @@ filter my-lispy
 filter .pl
 filter pcre
 filter perl
-filter conf
 filter advi
 cd zgg
 filter blog
@@ -48,3 +44,7 @@ filter Lo
 filter nltk
 filter 
 filter nlp
+filter imenu
+filter helm
+filter conf
+filter anac
