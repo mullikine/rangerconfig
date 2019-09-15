@@ -1,5 +1,3 @@
-filter my-fly
-filter frank
 filter ws
 filter my-em
 filter my-the
@@ -48,3 +46,5 @@ filter nlp
 filter data
 filter 
 filter dataset
+filter Ap
+filter Local
