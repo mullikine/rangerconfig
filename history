@@ -1,15 +1,3 @@
-filter py
-filter linum
-filter pand
-filter rem
-filter html
-filter spacy
-filter setup
-filter compa
-filter spac
-filter reme
-filter clojure
-filter job
 filter ful
 filter cv
 filter pa
@@ -30,7 +18,6 @@ filter perl
 filter advi
 cd zgg
 filter blog
-filter todo
 filter Print
 filter Hell
 filter dat
@@ -42,9 +29,22 @@ filter Local
 filter glos
 filter Lo
 filter nltk
-filter 
-filter nlp
 filter imenu
 filter helm
-filter conf
 filter anac
+filter nlp
+filter python
+filter scra
+filter hugo
+filter frank
+filter conf
+filter list
+filter prod
+filter quan
+filter blo
+filter todo
+filter ssh
+filter 
+filter fore
+filter basi
+filter lexi
