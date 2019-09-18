@@ -1,4 +1,3 @@
-filter ful
 filter cv
 filter pa
 filter R^
@@ -17,7 +16,7 @@ filter pcre
 filter perl
 filter advi
 cd zgg
-filter blog
+filter todo
 filter Print
 filter Hell
 filter dat
@@ -32,19 +31,20 @@ filter nltk
 filter imenu
 filter helm
 filter anac
-filter nlp
 filter python
 filter scra
 filter hugo
 filter frank
-filter conf
 filter list
 filter prod
 filter quan
-filter blo
-filter todo
-filter ssh
+filter post
+filter conf
 filter 
-filter fore
-filter basi
-filter lexi
+filter blog
+filter nlp
+filter deel
+filter rein
+filter blo
+filter you
+filter con
