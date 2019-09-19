@@ -1,12 +1,3 @@
-filter .pl
-filter pcre
-filter perl
-filter advi
-cd zgg
-filter todo
-filter Print
-filter Hell
-filter dat
 filter datase
 filter data
 filter dataset
@@ -43,8 +34,17 @@ filter fav
 filter cir
 filter macr
 filter con
-filter conf
-filter 
 filter anacon
 filter eww
 filter curl
+filter proga
+filter parser
+filter lan
+filter pars
+filter comp
+filter form
+filter crown
+filter misc
+filter conf
+filter globa
+filter 
