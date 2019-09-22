@@ -1,4 +1,3 @@
-filter hugo
 filter frank
 filter list
 filter prod
@@ -35,7 +34,6 @@ filter globa
 filter tet
 filter sear
 filter git
-filter 
 filter busines
 filter parse
 filter src
@@ -48,3 +46,5 @@ filter blog
 filter post
 filter fak
 filter ace
+filter debug
+filter 
