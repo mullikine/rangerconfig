@@ -1,4 +1,3 @@
-filter eww
 filter curl
 filter proga
 filter parser
@@ -27,7 +26,6 @@ filter meta
 filter healt
 filter englis
 filter blog
-filter post
 filter hh
 filter helm
 filter conf
@@ -43,8 +41,10 @@ filter fion
 filter plan
 filter python
 filter f
-filter 
 filter pytho
 filter emac
 filter quote
 rename misc.org
+filter post
+filter 
+filter fiona
