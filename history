@@ -1,12 +1,3 @@
-filter curl
-filter proga
-filter parser
-filter lan
-filter pars
-filter comp
-filter form
-filter crown
-filter misc
 filter globa
 filter tet
 filter sear
@@ -46,5 +37,14 @@ filter emac
 filter quote
 rename misc.org
 filter post
-filter 
 filter fiona
+filter girl
+filter link
+filter eww
+filter person
+filter emacs
+filter handl
+filter al
+filter pro
+filter 
+filter compu
