@@ -1,5 +1,3 @@
-filter tet
-filter git
 filter busines
 filter parse
 filter src
@@ -47,4 +45,6 @@ filter pcle
 filter job
 filter sear
 filter 
-filter handl
+filter nlpg
+filter nlp
+filter lam
