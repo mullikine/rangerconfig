@@ -1,21 +1,10 @@
-filter busines
-filter parse
-filter src
-filter Make
-filter my-doc
-filter keen
-filter pack
-filter el
 filter fak
 filter ace
 filter debug
 filter meta
 filter healt
-filter englis
-filter blog
 filter hh
 filter helm
-filter conf
 filter 7
 filter 04_07
 filter 04_0
@@ -44,7 +33,18 @@ filter pclea
 filter pcle
 filter job
 filter sear
-filter 
 filter nlpg
 filter nlp
 filter lam
+filter clql
+filter ws
+filter bibl
+filter conf
+filter haskel
+filter remem
+filter read
+filter 
+filter langu
+filter englis
+filter idiom
+filter blog
