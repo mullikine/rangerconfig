@@ -1,8 +1,6 @@
-filter fak
-filter ace
-filter debug
 filter meta
 filter healt
+filter blog
 filter hh
 filter helm
 filter 7
@@ -34,7 +32,6 @@ filter pcle
 filter job
 filter sear
 filter nlpg
-filter nlp
 filter lam
 filter clql
 filter ws
@@ -45,6 +42,9 @@ filter remem
 filter read
 filter 
 filter langu
+filter nlp
+filter data
+filter peopl
 filter englis
 filter idiom
-filter blog
+open_with 
