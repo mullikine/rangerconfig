@@ -1,3 +1,11 @@
+filter hh
+filter helm
+filter 7
+filter 04_07
+filter 04_0
+filter 05
+filter 04_
+filter ,
 filter cook
 filter face
 filter fion
@@ -29,6 +37,7 @@ filter conf
 filter haskel
 filter remem
 filter read
+filter 
 filter langu
 filter nlp
 filter data
@@ -38,13 +47,4 @@ filter idiom
 open_with 
 filter eclip
 filter rust
-filter todo
-filter hydra
-filter displ
-filter pic
-filter photo
-filter me
-filter me$
-filter strin
-filter ab
-filter 
+filter filte
