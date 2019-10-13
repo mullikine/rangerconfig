@@ -1,12 +1,3 @@
-filter my-do
-filter scra
-filter hydra
-filter eww
-filter Make
-filter pipe
-filter butt
-filter yas
-filter conf
 filter help
 filter macro
 filter hy
@@ -32,7 +23,6 @@ filter awk
 filter blo
 filter filte
 filter em
-filter 
 filter txt
 filter emac
 filter term
@@ -48,3 +38,13 @@ filter histor
 filter emacs
 filter libv
 filter ota
+filter bookm
+filter unit
+filter digr
+filter evil
+filter .hs
+filter 
+filter .md
+filter .md$
+filter movies
+filter fav
