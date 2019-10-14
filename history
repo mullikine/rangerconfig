@@ -1,14 +1,7 @@
-filter conf
-filter help
-filter macro
-filter hy
-filter anime
-filter ident-
 filter iden
 filter tools
 filter globa
 filter fac
-filter job
 filter sea
 filter gene
 filter aw
@@ -25,15 +18,13 @@ filter blo
 filter filte
 filter em
 filter txt
-filter emac
 filter term
 filter engli
 filter idiom
+filter pdf
 filter cover
 filter Pro
 filter physi
-filter late
-filter read
 filter histor
 filter emacs
 filter libv
@@ -45,6 +36,15 @@ filter evil
 filter .hs
 filter .md
 filter .md$
-filter 
 filter hel
-filter pdf
+filter job
+filter about
+filter read
+filter trans
+filter emac
+filter nlp
+filter info
+filter dep
+filter late
+filter 
+filter deep
