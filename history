@@ -1,5 +1,4 @@
 filter idiom
-filter pdf
 filter cover
 filter Pro
 filter physi
@@ -40,11 +39,12 @@ filter remem
 filter tor
 filter lin
 filter job
-filter glo
-filter tet
 filter kuber
-filter link
+filter glo
+filter manu
+filter show-
+filter pdf
 filter 
-filter le
-filter kube
-filter glob
+filter shel
+filter show
+filter uniq
