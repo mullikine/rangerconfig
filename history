@@ -1,6 +1,3 @@
-filter term
-filter engli
-filter idiom
 filter pdf
 filter cover
 filter Pro
@@ -48,3 +45,6 @@ filter glo
 filter tet
 filter conf
 filter onto
+filter ontol
+filter url
+filter scrape
