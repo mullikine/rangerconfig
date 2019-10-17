@@ -1,4 +1,7 @@
+filter term
+filter engli
 filter idiom
+filter pdf
 filter cover
 filter Pro
 filter physi
@@ -38,13 +41,10 @@ filter emac
 filter remem
 filter tor
 filter lin
+filter 
 filter job
 filter kuber
 filter glo
-filter manu
-filter show-
-filter pdf
-filter 
-filter shel
-filter show
-filter uniq
+filter tet
+filter conf
+filter onto
