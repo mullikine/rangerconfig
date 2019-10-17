@@ -1,7 +1,3 @@
-filter pdf
-filter cover
-filter Pro
-filter physi
 filter histor
 filter emacs
 filter libv
@@ -38,7 +34,6 @@ filter emac
 filter remem
 filter tor
 filter lin
-filter 
 filter job
 filter kuber
 filter glo
@@ -48,3 +43,8 @@ filter onto
 filter ontol
 filter url
 filter scrape
+filter dwar
+filter write
+filter org
+filter dream
+filter 
