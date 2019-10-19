@@ -1,15 +1,3 @@
-filter engli
-filter idiom
-filter pdf
-filter cover
-filter Pro
-filter physi
-filter histor
-filter emacs
-filter libv
-filter ota
-filter bookm
-filter digr
 filter evil
 filter .hs
 filter .md
@@ -18,7 +6,6 @@ filter hel
 filter about
 filter read
 filter trans
-filter nlp
 filter info
 filter dep
 filter late
@@ -40,7 +27,6 @@ filter emac
 filter remem
 filter tor
 filter lin
-filter 
 filter job
 filter kuber
 filter glo
@@ -48,3 +34,17 @@ filter tet
 filter c-
 filter gene
 filter cv-
+filter mess
+filter chat
+filter radio
+filter astro
+filter reinst
+filter require
+filter dot-
+filter xi-
+filter perl
+filter acron
+filter nlp
+filter clus
+filter 
+filter bas
