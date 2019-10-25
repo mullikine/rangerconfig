@@ -1,19 +1,3 @@
-filter show-dot
-filter them
-filter nest
-filter babel
-filter hugo
-filter hug
-filter the
-filter 10
-filter deep
-filter acron
-filter late
-filter org-ma
-filter sanit
-filter sani
-filter mag
-filter magit
 filter ini
 filter macro-gr
 filter scrat
@@ -22,9 +6,7 @@ filter lisp
 filter map
 filter python
 filter ansi
-filter blo
 filter emacs-l
-filter conf
 filter ling
 filter mul
 filter my-pre
@@ -33,14 +15,12 @@ filter esh
 filter my-rack
 filter filte
 filter shane
-filter help
 filter key
 filter eas
 filter learn
 filter hand
 filter term
 filter brend
-filter 
 filter pca
 rename org-rifle.el
 filter mark
@@ -48,3 +28,23 @@ filter org
 filter babe
 filter musi
 filter evil
+touch 
+filter tips
+filter help
+filter blo
+filter math
+filter link
+filter problo
+filter form
+filter trans
+filter probl
+filter mathe
+filter pdf
+filter kagg
+filter job
+filter cv-1
+filter abou
+filter ocnf
+filter conf
+filter data
+filter 
