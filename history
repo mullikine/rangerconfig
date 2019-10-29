@@ -1,3 +1,8 @@
+filter cv-1
+filter abou
+filter ocnf
+filter conf
+filter data
 filter glos
 filter nlp
 filter mathem
@@ -34,17 +39,12 @@ filter perl
 filter k8
 filter yaml
 filter fac
+filter prog
 filter kube
 filter org
 filter hask
 filter hand
 filter flysp
-filter prog
-filter handl
-[<0;46;15mq
-filter trans
-filter svg
-filter euc
 filter 
-filter alg
-filter templ
+filter manu
+filter handl
