@@ -1,14 +1,3 @@
-filter cv-1
-filter abou
-filter ocnf
-filter conf
-filter data
-filter glos
-filter nlp
-filter mathem
-filter math
-filter babe
-filter asci
 filter dimen
 filter lang
 filter langu
@@ -17,7 +6,6 @@ filter cv-14
 filter inter
 filter lisp
 filter help
-filter emacs
 filter ema
 filter scrap
 filter bigqu
@@ -27,7 +15,6 @@ filter cua
 filter .org
 filter inform
 filter meta
-filter rack
 filter hy
 filter pack
 filter .sh$
@@ -42,9 +29,22 @@ filter fac
 filter prog
 filter kube
 filter org
-filter hask
 filter hand
 filter flysp
-filter 
 filter manu
 filter handl
+filter han
+filter babe
+filter illus
+filter hask
+filter bbs
+filter emac
+filter advi
+filter rack
+filter ex
+filter c-
+filter scra
+filter lsp
+filter emacs
+filter 
+filter con
