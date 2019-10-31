@@ -1,3 +1,12 @@
+filter lisp
+filter help
+filter ema
+filter scrap
+filter bigqu
+filter movies
+filter wat
+filter cua
+filter .org
 filter inform
 filter meta
 filter hy
@@ -11,6 +20,7 @@ filter perl
 filter k8
 filter yaml
 filter fac
+filter prog
 filter kube
 filter org
 filter hand
@@ -33,18 +43,8 @@ filter lsp
 filter hpack
 filter hoog
 filter hask
+filter mode-lin
+filter mo
 filter list
-filter prog
-filter uni
-filter ux
-filter my-
-filter my-u
-filter shel
-filter un
-filter nix
 filter 
-filter jf
-filter fun
-filter jo
-filter engli
-filter words
+filter edit
