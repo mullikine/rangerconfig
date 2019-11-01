@@ -1,9 +1,3 @@
-filter lisp
-filter help
-filter ema
-filter scrap
-filter bigqu
-filter movies
 filter wat
 filter cua
 filter .org
@@ -39,12 +33,18 @@ filter c-
 filter scra
 filter emacs
 filter con
-filter lsp
 filter hpack
 filter hoog
-filter hask
 filter mode-lin
 filter mo
 filter list
+filter png
+filter hask
+filter h
+filter dash
+filter curr
 filter 
-filter edit
+filter about
+filter acron
+filter lsp
+filter rust
