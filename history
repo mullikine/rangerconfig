@@ -1,8 +1,3 @@
-filter emacs
-filter remm
-filter reme
-filter rem
-touch 
 filter 16
 filter Term
 filter wgrep
@@ -39,12 +34,17 @@ filter cpp
 filter Come
 filter custom
 filter cust
-filter 
 filter lap
 filter lsp
 filter go
 filter codecr
-filter face
-filter hand
-filter templ
-filter fuzz
+filter bst
+filter hugo
+open_withl
+filter url
+filter argu
+filter 
+filter engli
+filter coco
+filter decon
+filter ar
