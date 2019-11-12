@@ -1,25 +1,6 @@
-filter 16
-filter Term
-filter wgrep
-filter grep
-filter youtub
-filter Film
-filter Schi
-filter Movi
-filter Mov
-filter By
-filter Sc
-filter Var
-filter SChi
-filter Schind
-filter list
-open_with 
-filter alia
-filter macro
 filter org-tem
 filter inro
 filter inform
-filter file
 filter tetr
 filter doc
 filter ps
@@ -30,7 +11,6 @@ filter alias
 filter c
 filter my-cpp
 [<0;58;28ms
-filter cpp
 filter Come
 filter custom
 filter cust
@@ -43,8 +23,28 @@ filter hugo
 open_withl
 filter url
 filter argu
-filter 
 filter engli
 filter coco
 filter decon
 filter ar
+filter file
+filter entropy
+filter dsl
+filter Bur
+filter cpp
+filter wat
+filter handl
+filter org
+filter birthd
+filter abou
+filter Hask
+filter Program
+filter book
+filter Programming
+filter Lear
+filter txt
+filter spac
+filter lang
+filter nlp
+filter 
+filter func
