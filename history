@@ -1,8 +1,3 @@
-filter org-tem
-filter inro
-filter inform
-filter tetr
-filter doc
 filter ps
 filter Uni
 filter par
@@ -46,5 +41,10 @@ filter txt
 filter spac
 filter lang
 filter nlp
+filter REA
+filter man
+filter doc
 filter 
-filter func
+filter tmux.
+filter hask
+filter my-term
