@@ -1,5 +1,3 @@
-filter ps
-filter Uni
 filter par
 filter prog
 filter alias
@@ -39,12 +37,14 @@ filter Programming
 filter Lear
 filter txt
 filter spac
-filter lang
 filter nlp
-filter REA
-filter man
-filter doc
-filter 
-filter tmux.
-filter hask
+filter .hs
+filter md.hs
+filter .hd
+filter .md
 filter my-term
+filter fix-
+filter dire
+filter 
+filter dired
+filter pytho
