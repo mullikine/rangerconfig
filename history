@@ -1,16 +1,3 @@
-filter prog
-filter alias
-filter c
-filter my-cpp
-[<0;58;28ms
-filter Come
-filter custom
-filter cust
-filter lap
-filter lsp
-filter go
-filter codecr
-filter bst
 filter hugo
 open_withl
 filter url
@@ -36,7 +23,6 @@ filter Programming
 filter Lear
 filter txt
 filter spac
-filter nlp
 filter .hs
 filter md.hs
 filter .hd
@@ -44,7 +30,21 @@ filter .md
 filter my-term
 filter fix-
 filter dire
-filter 
 filter dired
 filter pytho
 filter bise
+filter sql
+filter term
+filter shane
+filter deep
+filter nlp
+filter musi
+filter cloud
+filter serv
+filter mac
+filter is
+filter macb
+filter ubun
+filter disk
+filter 
+filter yar
