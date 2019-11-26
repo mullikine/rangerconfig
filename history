@@ -26,3 +26,5 @@ filter pers
 filter haske
 filter 
 filter ghci
+filter Log
+filter bjor
