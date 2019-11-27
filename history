@@ -11,7 +11,6 @@ filter comi
 filter shack
 filter babe
 filter comint
-filter hydra
 filter cont
 filter hask
 filter about
@@ -24,7 +23,21 @@ filter ossp
 filter show-pip
 filter pers
 filter haske
-filter 
-filter ghci
 filter Log
-filter bjor
+filter lsp
+filter 26
+filter Program
+filter Gra
+filter man
+filter ghci
+filter hydra
+filter func
+filter programming
+filter glo
+filter futu
+filter monad-tr
+filter mona
+filter mon
+filter trans
+filter 
+filter my-org
