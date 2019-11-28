@@ -1,8 +1,3 @@
-filter eo
-filter emoji
-filter spe
-filter law
-filter N9R
 filter N9
 filter wund
 filter wond
@@ -35,9 +30,21 @@ filter func
 filter programming
 filter glo
 filter futu
-filter monad-tr
-filter mona
-filter mon
-filter trans
+filter alter
+filter ana
+filter alan
+filter nix
+filter pcre
+filter -parser.ogr
+filter -parser
+filter parser.org
+filter type
+filter magi
+filter manu
+filter clql
+filter yaml
+filter pack
 filter 
-filter my-org
+filter haskel
+filter expl
+filter intro
