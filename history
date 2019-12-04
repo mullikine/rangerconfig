@@ -1,18 +1,3 @@
-filter pip
-filter ossp
-filter show-pip
-filter Log
-filter lsp
-filter 26
-filter Program
-filter Gra
-filter man
-filter ghci
-filter hydra
-filter func
-filter programming
-filter glo
-filter futu
 filter alter
 filter ana
 filter alan
@@ -43,8 +28,23 @@ filter main
 filter sr
 filter scrat
 filter gg
-filter 
 filter ws
 filter priva
 filter utils
 filter util
+filter girl
+filter amy
+filter exten
+filter them
+open_withf
+filter remem
+filter fuse
+filter magit
+filter 26
+filter gist
+filter pytho
+filter 
+filter chat
+filter cv-
+filter link
+filter ras
