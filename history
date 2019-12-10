@@ -1,5 +1,3 @@
-filter inform
-filter tor
 filter template
 filter haske
 filter scri
@@ -33,7 +31,6 @@ filter glos
 filter emac
 filter progra
 filter java
-filter play
 filter hand
 filter my-lsp
 rename CD4_Aftermath.iso
@@ -48,3 +45,6 @@ filter magit
 filter func
 filter review
 filter index
+filter handl
+filter play
+filter my-nix
