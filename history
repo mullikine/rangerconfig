@@ -1,9 +1,3 @@
-filter fold
-filter pers
-filter Down
-filter down
-filter eww
-filter deep
 filter inform
 filter tor
 filter template
@@ -27,7 +21,6 @@ filter them
 open_withf
 filter remem
 filter fuse
-filter magit
 filter 26
 filter gist
 filter token
@@ -41,10 +34,17 @@ filter emac
 filter progra
 filter java
 filter play
-filter 
 filter hand
 filter my-lsp
 rename CD4_Aftermath.iso
 filter doc
 filter stat
 filter nix
+filter RE
+filter old
+filter 
+filter mati
+filter magit
+filter func
+filter review
+filter index
