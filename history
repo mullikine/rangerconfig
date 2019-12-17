@@ -1,4 +1,3 @@
-filter magi
 filter with-e
 filter my-fac
 filter pack
@@ -43,8 +42,9 @@ filter python
 filter prog
 filter my-erc
 filter \.nsi
-filter 
 filter hand
 filter my-fly
 filter mc-
 filter nix
+filter simon
+filter 
