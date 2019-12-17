@@ -1,17 +1,3 @@
-filter ^hs
-filter autom
-filter dela
-filter fun
-normal
-filter obj
-filter resol
-filter res
-filter comint
-filter .
-filter .yml
-filter .giti
-filter babel
-filter manu
 filter magi
 filter with-e
 filter my-fac
@@ -22,7 +8,6 @@ filter mode
 filter .py
 filter pytho
 filter grep
-filter prog
 filter my-magit
 filter diff
 filter magit
@@ -45,6 +30,21 @@ filter snip
 filter rus
 filter emac
 filter helm
-filter 
 filter my-rust
 filter con
+filter erc
+filter pro
+filter io
+filter my-ev
+filter pyth
+filter mul
+filter pto
+filter python
+filter prog
+filter my-erc
+filter \.nsi
+filter 
+filter hand
+filter my-fly
+filter mc-
+filter nix
