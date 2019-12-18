@@ -1,8 +1,3 @@
-filter pack
-filter transi
-filter quote
-filter mode
-filter .py
 filter pytho
 filter grep
 filter my-magit
@@ -45,6 +40,11 @@ filter my-fly
 filter mc-
 filter nix
 filter mc-m
-filter 
 filter my-term
 filter term
+filter tam
+filter thark
+filter 
+filter auto
+open_with
+open_with 
