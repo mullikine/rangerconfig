@@ -1,5 +1,3 @@
-filter with-e
-filter my-fac
 filter pack
 filter transi
 filter quote
@@ -46,5 +44,7 @@ filter hand
 filter my-fly
 filter mc-
 filter nix
-filter simon
+filter mc-m
 filter 
+filter my-term
+filter term
