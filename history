@@ -45,6 +45,6 @@ filter \.nsi
 filter hand
 filter tod
 filter list
-filter cmd
-filter opam
+filter conf
 filter 
+filter lsp
