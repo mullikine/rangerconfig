@@ -1,3 +1,10 @@
+filter with-e
+filter my-fac
+filter pack
+filter transi
+filter quote
+filter mode
+filter .py
 filter pytho
 filter grep
 filter my-magit
@@ -36,15 +43,8 @@ filter prog
 filter my-erc
 filter \.nsi
 filter hand
-filter my-fly
-filter mc-
-filter nix
-filter mc-m
-filter my-term
-filter term
-filter tam
-filter thark
+filter tod
+filter list
+filter cmd
+filter opam
 filter 
-filter auto
-open_with
-open_with 
