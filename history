@@ -1,7 +1,3 @@
-filter with-e
-filter my-fac
-filter pack
-filter transi
 filter quote
 filter mode
 filter .py
@@ -45,6 +41,10 @@ filter \.nsi
 filter hand
 filter tod
 filter list
-filter conf
+filter cmd
+filter opam
 filter 
-filter lsp
+filter cover
+filter new
+filter ox
+filter cv-
