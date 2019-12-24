@@ -1,13 +1,3 @@
-filter xmo
-filter compy
-cd dg
-filter comp
-filter .go
-filter haskel
-filter ind
-filter assi
-filter user
-filter snippets
 filter snip
 filter rus
 filter emac
@@ -22,7 +12,6 @@ filter pyth
 filter mul
 filter pto
 filter python
-filter prog
 filter my-erc
 filter \.nsi
 filter hand
@@ -46,5 +35,16 @@ filter fre
 filter doc
 filter hydra
 filter hydra-
-filter lsit
+filter notes
+filter my-buf
+filter which
+filter ein
+filter nav
+filter Lis
+[<0;72;29m
+filter l
+filter proces
+filter lfe
+filter prog
 filter 
+filter fav
