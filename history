@@ -1,50 +1,50 @@
-filter my-ev
-filter pyth
-filter mul
-filter pto
-filter python
-filter my-erc
-filter \.nsi
-filter hand
-filter tod
-filter list
-filter selec
-filter emacs
-filter nlp
-filter hask
-filter concur
-filter term
-filter man
-filter manu
-filter ov
-filter dis
-filter trouble
 filter vim
-filter .py
-filter ffre
-filter fre
-filter doc
-filter hydra
-filter hydra-
-filter notes
-filter my-buf
-filter which
-filter ein
-filter nav
-filter Lis
-[<0;72;29m
-filter l
-filter proces
-filter lfe
-filter prog
-filter fav
-filter mj
-filter mjo
+filter zsh-
+filter mini
+filter more
+filter tmepl
+filter templ
+filter emacs
+filter Java
+filter J
+filter MS
+filter nano
+filter mode
+filter my-term
+filter term
+filter flu
+filter the
+filter af
+filter minim
+filter abs
+filter nlp
+filter helm
 filter eww
-filter pure
-filter lisp
-filter reme
-filter dire
+filter util
+filter test
+filter G
+filter 
+open_withpl
+filter .rpl
+narrow Line
+narrow 
+help 
+scout -gpt .rpl
+scout -gpt Line
+scout -p .rpl
+scout -gpt *lua*rpl
+scout -gpt *ip*rpl
+scout -gpt *ip*rpl
+help
+search 
+filter ros
+filter rpl
 filter 
-filter dired
-filter jav
+filter pdf
+filter .o$
+filter cpp
+filter frame
+open_with 
+filter deep
+filter link
+filter python
