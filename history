@@ -1,4 +1,3 @@
-filter vim
 filter zsh-
 filter mini
 filter more
@@ -11,7 +10,6 @@ filter MS
 filter nano
 filter mode
 filter my-term
-filter term
 filter flu
 filter the
 filter af
@@ -43,8 +41,10 @@ filter
 filter pdf
 filter .o$
 filter cpp
-filter frame
 open_with 
 filter deep
 filter link
 filter python
+filter proc
+filter frame
+filter term
