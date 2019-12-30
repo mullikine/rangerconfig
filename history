@@ -6,7 +6,6 @@ filter af
 filter minim
 filter abs
 filter nlp
-filter eww
 filter util
 filter test
 filter G
@@ -48,3 +47,4 @@ filter helm
 filter con
 filter proc
 filter conf
+filter eww
