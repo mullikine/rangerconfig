@@ -1,13 +1,7 @@
-filter mode
-filter my-term
-filter flu
-filter the
-filter af
-filter minim
 filter abs
 filter nlp
+filter eww
 filter util
-filter test
 filter G
 filter 
 open_withpl
@@ -34,7 +28,6 @@ filter link
 filter python
 filter frame
 filter wolf
-filter 
 filter pu
 filter py
 filter term
@@ -47,4 +40,11 @@ filter helm
 filter con
 filter proc
 filter conf
-filter eww
+filter high
+filter syn
+filter org
+filter cv-
+filter inde
+filter 
+filter dire
+filter test
