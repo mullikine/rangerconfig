@@ -1,7 +1,6 @@
-filter abs
-filter nlp
 filter eww
 filter util
+filter test
 filter G
 filter 
 open_withpl
@@ -30,9 +29,7 @@ filter frame
 filter wolf
 filter pu
 filter py
-filter term
 filter probl
-filter emac
 filter magit
 filter em
 filter list
@@ -40,11 +37,14 @@ filter helm
 filter con
 filter proc
 filter conf
-filter high
-filter syn
-filter cv-
-filter inde
+filter term
+filter gg
+filter ivy
+filter down
 filter 
-filter dire
-filter test
-filter org
+filter haske
+filter emac
+filter buffer
+filter job
+filter prog
+filter langu
