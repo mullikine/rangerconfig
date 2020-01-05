@@ -1,14 +1,3 @@
-filter deep
-filter link
-filter frame
-filter wolf
-filter pu
-filter py
-filter probl
-filter emac
-filter magit
-filter em
-filter list
 filter helm
 filter con
 filter proc
@@ -26,7 +15,6 @@ filter my-
 filter snip
 filter syn
 filter my
-filter manu
 filter conf
 filter high
 filter face
@@ -48,3 +36,15 @@ filter python
 filter beau
 filter 
 filter hand
+open_with 
+filter 01
+filter 01E01
+filter manu
+filter lsp
+filter hydra
+filter eldo
+filter shack
+filter about
+filter string
+filter rege
+filter regex
