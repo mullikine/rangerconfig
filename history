@@ -1,8 +1,24 @@
+filter rpl
+filter pdf
+filter .o$
+filter cpp
+open_with 
+filter deep
+filter link
+filter python
+filter frame
+filter wolf
+filter pu
+filter py
+filter probl
+filter emac
+filter magit
+filter em
+filter list
 filter helm
 filter con
 filter proc
 filter term
-filter job
 filter gg
 filter ivy
 filter down
@@ -15,11 +31,13 @@ filter my-
 filter snip
 filter syn
 filter my
+filter manu
 filter conf
 filter high
 filter face
 filter font
 filter synt
+filter 
 filter .el
 filter megan
 filter java
@@ -28,23 +46,5 @@ filter yo
 rename Uncle fucks his 16yo niece and cums inside - caught by hidden cam.aviniece
 rename niece.avi
 filter .jpg
-filter macor
-filter macro
-filter emacs
-filter sc
-filter python
-filter beau
-filter 
-filter hand
-open_with 
-filter 01
-filter 01E01
-filter manu
-filter lsp
-filter hydra
-filter eldo
-filter shack
-filter about
-filter string
-filter rege
-filter regex
+filter job
+filter pers
