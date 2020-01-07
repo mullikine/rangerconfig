@@ -1,4 +1,3 @@
-filter rpl
 filter pdf
 filter .o$
 filter cpp
@@ -37,7 +36,6 @@ filter high
 filter face
 filter font
 filter synt
-filter 
 filter .el
 filter megan
 filter java
@@ -48,3 +46,5 @@ rename niece.avi
 filter .jpg
 filter job
 filter pers
+filter shel
+filter 
