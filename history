@@ -1,5 +1,3 @@
-filter syn
-filter my
 filter high
 filter face
 filter font
@@ -43,8 +41,10 @@ filter c-
 filter pdf
 filter conda
 filter conf
-filter 
 filter get-maa
 filter get-ma
-filter pack
-filter magit
+filter term
+filter acron
+filter 
+filter glos
+filter contin
