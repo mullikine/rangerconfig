@@ -1,5 +1,3 @@
-filter font
-filter synt
 filter .el
 filter megan
 filter java
@@ -43,8 +41,10 @@ filter get-maa
 filter get-ma
 filter term
 filter acron
-filter 
 filter glos
 filter contin
-filter 05
-filter car
+filter pwsh
+filter setup
+filter 
+filter RE
+filter slam
