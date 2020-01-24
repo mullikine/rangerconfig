@@ -1,16 +1,16 @@
-':/home/shane/var/smulliga/source/git/config/emacs/config
-l:/home/shane/notes2018/uni/cosc/431_Information Retrieval_S1/lectures
-f:/home/shane/var/smulliga/source/git/config/emacs/config
+j:/home/shane/source/git/purcell/emacs.d/lisp
+k:/home/shane/build/versioned/git-svn/aokts
+u:/home/shane/notes/ws
+s:/var/smulliga/source/git/abo-abo/org-mode
 p:/home/shane/scripts
 q:/home/shane/notes2018/ws
-k:/home/shane/build/versioned/git-svn/aokts
-s:/var/smulliga/source/git/abo-abo/org-mode
-c:/home/shane/notes/ws
-v:/home/shane/.ptpython
-y:/home/shane/notes2018
-u:/home/shane/notes/ws
+f:/home/shane/var/smulliga/source/git/config/emacs/config
+l:/home/shane/notes2018/uni/cosc/431_Information Retrieval_S1/lectures
 m:/home/shane/dump/home/shane/notes/ws/blog/blog
-j:/home/shane/source/git/purcell/emacs.d/lisp
-a:/var/smulliga/source/git/abo-abo/org-mode
+y:/home/shane/notes2018
+':/home/shane/blog/posts
 o:/home/shane/notes2018/ws/python
+v:/home/shane/.ptpython
+a:/var/smulliga/source/git/abo-abo/org-mode
+c:/home/shane/notes/ws
 b:/var/smulliga/source/git/mullikine/marketing/repos/uber/tchannel-go

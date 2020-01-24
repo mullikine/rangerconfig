@@ -1,9 +1,3 @@
-filter rege
-filter regex
-filter func
-filter appli
-filter app
-filter program
 filter hand
 filter cv-08,
 filter cv-07
@@ -43,8 +37,14 @@ filter bal
 filter port
 filter rog
 filter link
-filter 
 filter fmg
-filter gitl
 filter act
-filter babe
+filter test
+filter gitlb
+filter gitl
+filter comput
+filter cv
+filter visi
+filter 
+filter nix
+filter docker
