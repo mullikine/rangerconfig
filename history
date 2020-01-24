@@ -1,7 +1,3 @@
-filter hand
-filter cv-08,
-filter cv-07
-filter rack
 filter scra
 filter c-
 filter conda
@@ -45,6 +41,10 @@ filter gitl
 filter comput
 filter cv
 filter visi
-filter 
 filter nix
 filter docker
+filter epic
+filter .el
+filter me
+filter prolo
+filter 
