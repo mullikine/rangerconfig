@@ -1,6 +1,3 @@
-filter acron
-filter glos
-filter contin
 filter pwsh
 filter setup
 filter RE
@@ -48,3 +45,6 @@ filter trav
 filter -run
 filter docker
 filter 
+[<0;54;25ms
+filter term
+filter term-m
