@@ -1,12 +1,7 @@
-filter scra
-filter c-
-filter conda
 filter get-maa
 filter get-ma
 filter term
 filter acron
-filter glos
-filter contin
 filter pwsh
 filter setup
 filter RE
@@ -47,4 +42,9 @@ filter epic
 filter .el
 filter me
 filter prolo
+filter REA
+filter graph
+filter babe
+filter glos
+filter contin
 filter 
