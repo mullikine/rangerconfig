@@ -1,6 +1,3 @@
-filter glos
-filter contin
-filter pwsh
 filter setup
 filter RE
 filter slam
@@ -48,3 +45,6 @@ filter -run
 filter docker
 filter them
 filter 
+filter langu
+filter my-lsp
+filter dete
