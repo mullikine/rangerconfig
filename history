@@ -1,6 +1,3 @@
-filter setup
-filter RE
-filter slam
 filter musi
 filter loop
 filter fort
@@ -44,7 +41,10 @@ filter trav
 filter -run
 filter docker
 filter them
-filter 
 filter langu
-filter my-lsp
-filter dete
+filter even
+filter comm
+filter ontinu
+filter O
+filter 
+filter term
