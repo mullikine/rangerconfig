@@ -1,21 +1,3 @@
-filter fort
-filter dwarf
-rename Star.Wars.Episode.6.Return.of.the.Jedi.1983.1080p.BrRip.x264.BOKUTOX.YIFYcbal.mp4
-filter fzf
-filter fz
-filter fuz
-filter conf
-filter python
-filter circ
-filter compa
-filter pytho
-filter py
-filter nlp
-filter pdf
-filter cover
-filter cv-
-filter bal
-filter port
 filter rog
 filter link
 filter fmg
@@ -37,7 +19,6 @@ filter babe
 filter ex
 filter trav
 filter -run
-filter docker
 filter them
 filter langu
 filter even
@@ -46,5 +27,24 @@ filter ontinu
 filter O
 filter term
 filter cont
-filter 
 filter docke
+filter strin
+filter reg
+filter strn
+filter str
+filter docker
+filter dist-info
+filter lib
+filter all
+filter thing
+filter pg-
+filter github
+filter pg
+filter bn
+filter do
+filter travi
+filter RE
+filter tab
+filter 
+filter prep
+filter robot
