@@ -1,18 +1,9 @@
-filter RO
-filter S
-filter Doc
-filter Roc
-filter virtua
-filter timesh
-filter person
-filter pers
 filter time
 filter f
 filter git
 filter linux
 filter bank
 filter apart
-filter org
 filter grip
 filter ros
 filter flat
@@ -30,21 +21,30 @@ filter test
 open_with 
 filter browsh
 rename browsh.tar
-filter templ
 filter uml
 filter netw
-filter tele
 filter alv
 e
 filter plan
 filter tmux
-filter util
 filter ile
 filter dev
 filter devop
 filter add
 filter docker
 filter mess
-filter 
 filter slack
 filter mon
+filter templ
+filter continu
+filter ALV
+filter utils
+filter pdf
+filter org
+filter md
+filter util
+filter tele
+filter Auto
+filter dat
+filter 
+filter .py
