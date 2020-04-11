@@ -43,8 +43,8 @@ filter my-ss
 filter Map
 filter Dic
 filter Look
-filter tor
-filter seq
-filter img
 filter 
-
+filter helm
+rename my-helmhk.el
+[<16;81;26m
+filter bible
