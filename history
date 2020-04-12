@@ -1,5 +1,3 @@
-filter tele
-filter comp
 rename alpine-with-ssh.docker
 filter .el
 [<0;70;8mq[<0;70;7M[<16;70;7m
@@ -43,8 +41,10 @@ filter my-ss
 filter Map
 filter Dic
 filter Look
-filter 
 filter helm
 rename my-helmhk.el
 [<16;81;26m
 filter bible
+filter 303
+filter 
+rename ttyrec-12.04.20__1586671090.studioq.gif

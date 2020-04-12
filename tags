@@ -20,9 +20,4 @@ app_pager	apps.py	/^	def app_pager(self, c):$/;"	m	class:CustomApplications
 app_set_bg_with_feh	apps.py	/^	def app_set_bg_with_feh(self, c):$/;"	m	class:CustomApplications
 app_sxiv	apps.py	/^	def app_sxiv(self, c):$/;"	m	class:CustomApplications
 app_totem	apps.py	/^	def app_totem(self, c):$/;"	m	class:CustomApplications
-dump	scope.sh	/^dump() { \/usr\/bin\/printf -- "%s\\n" "$output"; }$/;"	f
-highlight	scope.sh	/^highlight() {$/;"	f
-is_tty	scope.sh	/^is_tty() {$/;"	f
 strip_extensions	apps.py	/^		def strip_extensions(file):$/;"	f	function:CustomApplications.app_java
-trim	scope.sh	/^trim() { head -n "$maxln"; }$/;"	f
-try	scope.sh	/^try() {$/;"	f
