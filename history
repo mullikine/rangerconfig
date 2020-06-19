@@ -1,17 +1,3 @@
-filter my-term
-filter org-
-filter hacker
-filter cosc
-filter cs3
-filter csc
-filter sdb
-filter inter
-filter babel
-filter racke
-filter tra
-filter prog
-filter link
-filter learn
 filter job
 filter qdot
 filter platfo
@@ -21,7 +7,6 @@ filter graphv
 filter sea
 filter templ
 filter templa
-filter hydra
 filter math
 filter my-do
 filter facebo
@@ -34,7 +19,6 @@ filter steam
 filter hask
 filter dire
 filter trans
-filter 
 filter githu
 filter shane
 filter magit
@@ -48,3 +32,19 @@ filter aws
 rename !!!!!!! [boy+man] MVI_0701-deep throat (Best suck! continued).rmvb
 filter plat
 filter sear
+filter docker-compose.yml
+filter w
+filter glo
+filter kuber
+filter lsp-mod
+filter lsp-
+filter lsp-mode
+filter babel
+filter hydra
+filter 
+filter gomet
+filter exam
+filter flyc
+filter kube
+filter com
+
