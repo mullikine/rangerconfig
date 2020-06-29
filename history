@@ -1,10 +1,4 @@
-filter fdat
-filter data
-filter phys
-rename IMG-0952.jpg
-rename post-shop-receipt.jpg
 filter yP
-open_with 
 filter hask
 filter hash
 filter babel
@@ -31,8 +25,6 @@ filter prod
 filter co
 filter confi
 filter docker
-filter kuber
-filter hand
 filter ade-
 filter elas
 filter KO
@@ -45,6 +37,14 @@ filter prog
 filter pip
 filter Pip
 filter googl
-filter 
 filter prodi
 filter sma
+open_with 
+filter lisp
+filter kuber
+filter hand
+filter util
+filter vsc
+filter VS
+filter 
+filter eww
