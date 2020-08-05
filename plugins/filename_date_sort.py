@@ -9,4 +9,8 @@ from random import random
 
 from ranger.container.directory import Directory
 
+from shanepy import *
+
+# The function must return a number. The numbers are then compared
+# Directory.sort_dict['pathdate'] = lambda path: tv(path)
 Directory.sort_dict['pathdate'] = lambda path: random()
