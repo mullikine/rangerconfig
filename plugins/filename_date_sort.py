@@ -14,3 +14,8 @@ from shanepy import *
 # The function must return a number. The numbers are then compared
 # Directory.sort_dict['pathdate'] = lambda path: tv(path)
 Directory.sort_dict['pathdate'] = lambda path: random()
+
+def sort_by_pathdate(path):
+    # I can't do it this way because I need the entire list of paths.
+    # Instead, I must use a hash function
+    # b("sort -t . -n -k 3,3 -k 2,2 -k 1,1", b("ls /home/shane/notes/ws/tabs")[0])[0]
