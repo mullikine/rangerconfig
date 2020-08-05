@@ -13,14 +13,16 @@ from shanepy import *
 import re
 import functools
 
-def extract_date(path):
-    return b("rosie-extract-date", path)[0][:-1]
-    # return b("rosie-extract-date", path)[0][:-1]
+# def extract_date(path):
+#     try:
+#         return re.match("(\d+)\.(\d+)\.(\d+)", path).group()
+#     except:
+#         return None
+#     # return b("rosie-extract-date", path)[0][:-1]
 
 def sort_by_pathdate(path):
-    extract_date(path)
     try:
-        gs = re.match("(\d+)\.(\d+)\.(\d+)", extract_date(path)).groups()
+        gs = re.match("(\d+)\.(\d+)\.(\d+)", path).groups()
         return gs[0] + 100 * gs[1] + 10000 * gs[2]
     except:
         return 0
