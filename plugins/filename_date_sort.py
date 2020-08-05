@@ -15,6 +15,9 @@ from shanepy import *
 # Directory.sort_dict['pathdate'] = lambda path: tv(path)
 Directory.sort_dict['pathdate'] = lambda path: random()
 
+def extract_date(path):
+    b("rosie-extract-date")[0]
+
 def sort_by_pathdate(path):
     # I can't do it this way because I need the entire list of paths.
     # Instead, I must use a hash function
