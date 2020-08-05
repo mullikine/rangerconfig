@@ -1,7 +1,3 @@
-filter langua
-filter jobs
-filter tabl
-filter us
 filter en
 filter evil
 filter dired
@@ -31,7 +27,6 @@ filter programm
 filter program
 filter ocaml
 filter file
-filter 
 filter my-pro
 filter gate
 filter lsp
@@ -48,3 +43,8 @@ filter synt
 filter comm
 filter Jur
 cd ggggg
+filter lib
+filter 
+filter rpl
+filter date
+filter tab
