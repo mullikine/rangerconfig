@@ -9,4 +9,4 @@ from random import random
 
 from ranger.container.directory import Directory
 
-Directory.sort_dict['random'] = lambda path: random()
+Directory.sort_dict['pathdate'] = lambda path: random()
