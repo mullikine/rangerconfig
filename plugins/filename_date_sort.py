@@ -9,7 +9,7 @@ from random import random
 
 from ranger.container.directory import Directory
 
-from shanepy import *
+# from shanepy import *
 import os
 import re
 import functools
@@ -21,6 +21,7 @@ import functools
 #         return None
 #     # return b("rosie-extract-date", path)[0][:-1]
 
+# This works well now
 def sort_by_pathdate(path):
     path = os.path.basename(str(path))
     try:
