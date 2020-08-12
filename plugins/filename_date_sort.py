@@ -22,7 +22,7 @@ import functools
 
 def sort_by_pathdate(path):
     try:
-        gs = re.match("(\d+)\.(\d+)\.(\d+)", path).groups()
+        gs = re.match(".*(\d+)\.(\d+)\.(\d+).*", path).groups()
         # return t(int(gs[0]) + 100 * int(gs[1]) + 10000 * int(gs[2]))
         return 1
     except:
