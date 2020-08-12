@@ -21,8 +21,10 @@ import functools
 #     # return b("rosie-extract-date", path)[0][:-1]
 
 def sort_by_pathdate(path):
+    return t(path)
     try:
-        gs = re.match(".*(\d+)\.(\d+)\.(\d+).*", path).groups()
+        gs = re.match("(\d+)\.(\d+)\.(\d+)", path)
+        # gs = re.match("(\d+)\.(\d+)\.(\d+)", path).groups()
         # return t(int(gs[0]) + 100 * int(gs[1]) + 10000 * int(gs[2]))
         return t(1)
     except:
