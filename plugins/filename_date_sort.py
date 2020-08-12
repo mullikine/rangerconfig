@@ -9,7 +9,7 @@ from random import random
 
 from ranger.container.directory import Directory
 
-# from shanepy import *
+from shanepy import t
 import os
 import re
 import functools
@@ -25,9 +25,10 @@ import functools
 def sort_by_pathdate(path):
     path = os.path.basename(str(path))
     try:
-        gs = re.match(".*(\d+)\.(\d+)\.(\d+).*", path).groups()
-        # return t(int(gs[0]) + 100 * int(gs[1]) + 10000 * int(gs[2]))
-        return int(gs[0]) + 100 * int(gs[1]) + 10000 * int(gs[2])
+        gs = re.match("[^0-9]*(\d+)\.(\d+)\.(\d+).*", path).groups()
+        #return t(int(gs[0]) + 100 * int(gs[1]) + 10000 * int(gs[2]))
+        return int(str(gs[2]) + str(gs[1]) + str(gs[0]))
+        # return int(gs[0]) + 100 * int(gs[1]) + 10000 * int(gs[2])
         # return t(1)
     except:
         # return t(0)
