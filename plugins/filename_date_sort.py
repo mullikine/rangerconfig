@@ -10,6 +10,7 @@ from random import random
 from ranger.container.directory import Directory
 
 from shanepy import *
+import os
 import re
 import functools
 
@@ -21,14 +22,15 @@ import functools
 #     # return b("rosie-extract-date", path)[0][:-1]
 
 def sort_by_pathdate(path):
-    return t(path)
+    path = os.path.basename(str(path))
     try:
-        gs = re.match("(\d+)\.(\d+)\.(\d+)", path)
-        # gs = re.match("(\d+)\.(\d+)\.(\d+)", path).groups()
+        gs = re.match(".*(\d+)\.(\d+)\.(\d+).*", path).groups()
         # return t(int(gs[0]) + 100 * int(gs[1]) + 10000 * int(gs[2]))
-        return t(1)
+        return int(gs[0]) + 100 * int(gs[1]) + 10000 * int(gs[2])
+        # return t(1)
     except:
-        return t(0)
+        # return t(0)
+        return 0
 
     # I can't do it this way because I need the entire list of paths.
     # Instead, I must use a hash function
