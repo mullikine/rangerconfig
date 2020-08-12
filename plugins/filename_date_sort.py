@@ -23,9 +23,10 @@ import functools
 def sort_by_pathdate(path):
     try:
         gs = re.match("(\d+)\.(\d+)\.(\d+)", path).groups()
-        return gs[0] + 100 * gs[1] + 10000 * gs[2]
+        # return t(int(gs[0]) + 100 * int(gs[1]) + 10000 * int(gs[2]))
+        return 1
     except:
-        return 0
+        return t(0)
 
     # I can't do it this way because I need the entire list of paths.
     # Instead, I must use a hash function
