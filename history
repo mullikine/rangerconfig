@@ -1,18 +1,7 @@
-filter org
-filter fren
-filter msf
-filter mill
-filter post
-filter ox
-filter conf
-filter web
-rename video-1598715382-orig.png
-filter dire
 filter fzf
 filter helm
 search ifyv
 filter ivy
-filter megan
 filter eshe
 filter idio
 filter englis
@@ -33,7 +22,6 @@ filter epic
 filter musi
 filter john
 filter Do
-filter ws
 filter old
 filter back
 filter bak
@@ -45,6 +33,18 @@ filter h5
 filter .py
 rename venvdir
 filter REA
+filter gg
 filter 
-filter svg
-filter plantu
+filter annot
+filter dom
+filter chatbo
+filter langu
+filter nlp
+filter man
+filter mana
+filter org
+filter megan
+filter ws
+filter engli
+filter emacs
+filter todo
