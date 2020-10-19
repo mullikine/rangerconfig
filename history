@@ -1,25 +1,3 @@
-filter cv
-filter glo
-filter sugg
-filter suppo
-filter lsp
-filter lispy
-filter ws
-filter sleep
-filter sle
-filter musi
-filter my-lsp
-rename testing.aoe2s
-rename testing.aoe2mpgame
-filter mul
-filter ya
-filter youn
-filter mega
-filter link
-filter shac
-filter vlc
-filter vs
-filter terr
 filter aws
 filter doc
 filter my-lip
@@ -29,7 +7,6 @@ filter Deat
 filter Rae
 filter Race
 filter RACE
-filter func
 filter gen-
 filter cv-09
 filter my-s
@@ -44,7 +21,30 @@ filter rock
 filter Mind
 filter keyp
 filter key
-filter 
-filter ^job
+filter bo
+filter prese
+filter transi
+filter anno
+filter hask
+filter scrip
+filter self
+filter imag
+filter me
+filter shan
+filter fie
+filter brain
+filter form
+filter pas
+filter profil
 filter ^cv-
-shell -f tm -f -d -t sph -c "%d" "zsh"
+filter bioc
+filter bio
+filter dgg
+filter 
+filter dd
+filter func
+filter Ph
+filter Dad
+filter ine
+filter Latin
+filter Gr
